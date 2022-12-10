@@ -1,0 +1,41 @@
+C:\Program Files\Git
+commands 
+1.git init
+2.git staus
+3.git config --global user.name "prasad_chowdary"
+4.git config --global user.email"prasad.damineni1@gmail.com"
+5.git config --list
+6.git add file-name
+
+1.touch file1
+2.ls
+3.git staus
+4.git add file1
+5.git staus
+6.git commit -m "sampe" file1
+7.git status
+8.git log
+9.git show cid
+
+
+1.touch f2 f3 f4
+2.git add.
+3.git add *
+4.git add -A
+5.git add file-name file-name
+6.git commit -m "label"
+7.git reset HEAD file-name
+8.git reset --soft cid
+9.git reset --mixed cid
+10.git reset --hard cid
+
+
+1.git clone url
+2.ls
+3.cd repo1/
+4.touch chowdary
+5.git status
+6.git add chowdary
+7.git commit -m "test commit" chowdary
+8.git log 
+9.git push`
